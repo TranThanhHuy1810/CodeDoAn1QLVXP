@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DACS1", "DACS1\DACS1.csproj", "{96769EAE-0582-4DE6-9935-DDA358986859}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{21E3D9E5-6C7F-4DC0-A24A-50664B367461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96769EAE-0582-4DE6-9935-DDA358986859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96769EAE-0582-4DE6-9935-DDA358986859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96769EAE-0582-4DE6-9935-DDA358986859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96769EAE-0582-4DE6-9935-DDA358986859}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21E3D9E5-6C7F-4DC0-A24A-50664B367461}.Debug|Any CPU.ActiveCfg = Debug
+		{21E3D9E5-6C7F-4DC0-A24A-50664B367461}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1680774-810C-4803-9004-E2FFEEB52816}
+	EndGlobalSection
+EndGlobal
